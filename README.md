@@ -1,8 +1,10 @@
 ### Meu nome é Yasmin Menezes
 
-Sou professora e estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Sou professora e estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 📬
 yasminmenezes@prof.educacao.sp.gov.br 📩
