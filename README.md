@@ -1,4 +1,4 @@
-### Meu nome é Yasmin Menezes
+### Meu nome é Yasmin Menezes 💖
 
 -Sou professora e estou estudando na Alura
 
